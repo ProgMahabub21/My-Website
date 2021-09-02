@@ -9,3 +9,11 @@ h2 {
 h3{
     color:darkcyan;
 }
+
+hr{
+    border-color: rgb(43, 30, 40);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 30%;
+}
