@@ -17,3 +17,23 @@ hr{
     border-width: 5px;
     width: 30%;
 }
+
+.btn1{
+    background: deepskyblue;
+}
+
+.ownerName{
+    color:black;
+}
+
+/*pseudo class of a html element class selectors*/
+.btn1:hover{
+    background-color:gold ;
+}
+.backButton:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+.table1{
+    width: 45%;
+}
